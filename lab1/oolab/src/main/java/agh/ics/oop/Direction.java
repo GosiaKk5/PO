@@ -5,6 +5,8 @@ enum direction_type {
     FORWARD,
     BACKWARD,
     RIGHT,
-    LEFT
+    LEFT,
+
+    NO
 }
 

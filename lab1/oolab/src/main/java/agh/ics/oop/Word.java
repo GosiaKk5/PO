@@ -17,6 +17,8 @@ public class Word {
                 case "r":
                     conv_directions[i] = direction_type.RIGHT;
                     break;
+                default:
+                    conv_directions[i] = direction_type.NO;
             };
         }
     }
